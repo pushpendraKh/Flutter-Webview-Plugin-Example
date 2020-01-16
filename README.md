@@ -1,8 +1,6 @@
 # flutter_webview_plugin_example
 
-Demonstrates how to use the flutter_webview_plugin plugin.
+Demostration of warning logs for Flutter team. 
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+As you press the button `Open widget webview`, you will see the webpage of _amazon.com_. 
+When you search for any product, you can watch the warning logs in console. 
